@@ -1,0 +1,20 @@
+{
+  "name": "AutoEstimate — Prix voitures Maroc",
+  "short_name": "AutoEstimate",
+  "description": "Estimation IA du prix des voitures d'occasion au Maroc",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0f10",
+  "theme_color": "#f0b90b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "fr",
+  "categories": ["utilities", "auto"]
+}

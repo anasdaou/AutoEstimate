@@ -1,0 +1,14 @@
+# Environnements
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Gros fichiers (modèles ML et données)
+*.pkl
+*.csv
+instance/
+
+# Config sensible
+.env
